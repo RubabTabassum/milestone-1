@@ -1,2 +1,2 @@
-# milestone-1
-Hackathon Project 1
+# Static Resume Builder by Rubab Tabassum
+ milestone-1 
